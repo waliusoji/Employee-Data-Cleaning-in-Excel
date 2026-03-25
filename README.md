@@ -88,7 +88,12 @@ This project focuses on cleaning a messy HR dataset containing **1,256 employee 
 - **Standardization** is critical for accurate analysis
 - Small inconsistencies can lead to **major analytical errors**
 
----
+## Dataset Files
+
+| File | Description |
+|------|-------------|
+| [employee_data_messy.xlsx](employee_data_messy.xlsx) | Raw dataset with all original data quality issues |
+| [employee_data_clean.xlsx](employee_data_clean.xlsx) | Final cleaned and analysis-ready dataset |
 
 ## Project Outcome
 
